@@ -19,7 +19,7 @@
    Please download the dataset **`A-Z Medicine List from India.csv`** from Kaggle. You can find it here: [Download the dataset from 
 Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india)
 
-   After downloading, place the dataset `A-Z Medicine List from India.csv` and save it as `Medicine.csv` in the project folder.
+   After downloading, save the dataset as `Medicine.csv` in the project folder.
 
 
 - Clone my repository.
