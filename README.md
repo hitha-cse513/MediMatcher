@@ -41,4 +41,4 @@
 
 ## Screenshots
 
-<img src="https://github.com/hitha-cse513/Screenshot (1).png">
+<img src="https://github.com/hitha-cse513/MediMatcher1.png">
