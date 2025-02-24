@@ -18,7 +18,7 @@
 - Clone my repository.
   
   ```
-  git clone https://github.com/hitha-cse513/MediMatcher
+  git clone https://github.com/hitha-cse513/MediMatcher.git
   cd MediMatcher
   ```
 
