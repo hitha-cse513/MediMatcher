@@ -15,12 +15,6 @@
 
 ## Usage
 
-- Download the Dataset:  
-   Please download the dataset **`A-Z Medicine List from India.csv`** from Kaggle. You can find it here: [Download the dataset from 
-Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india)
-
-   After downloading, save the dataset as `Medicine.csv` in the project folder.
-
 
 - Clone my repository.
   
@@ -37,7 +31,12 @@ Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-i
   ```
 
 - Ensure Tesseract is installed on your machine. If not, follow the installation instructions on the [Tesseract GitHub page](https://github.com/tesseract-ocr/tesseract).
-- Place the dataset CSV file (`Medicine.csv`) in the project folder.
+- Download the Dataset:  
+   Please download the dataset **`A-Z Medicine List from India.csv`** from Kaggle. You can find it here: [Download the dataset from 
+Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india)
+
+   After downloading, save the dataset as `Medicine.csv` in the project folder.
+
 - `app.py` is the main Python file for the Streamlit web application.
 - To run the app, use the following command in your terminal or IDE:
 
